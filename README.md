@@ -1,3 +1,4 @@
-# Репозитарий Ишмуратова Михаила job4j
-
-Планирую проййти обучение, получить необходимые знания и закончить обучение в первых месяцах 2019 года
+Repozitarij Ishmuratova Mixaila Job4j
+Nachal obuchenie v konce avgusta 2018 goda
+Planiruyu projti kurs i poluchit neobxodimye navyki k fevralyu 2019
+P.S. Ne smog pobedit kodirovku, poka translit 
